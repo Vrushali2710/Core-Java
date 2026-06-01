@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>JDBC</module>
+        <module>JPA</module>
     </modules>
 
     <properties>
